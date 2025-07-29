@@ -18,7 +18,7 @@ Navigate to your VC++ Directories under configuration Properties
 
 ### Step Three
 Navigate to you include and library directories, and link the appropriate folders
-![Image One](https://github.com/Benrowan910/Chimera-Tool/blob/main/GITHUBIMAGES/Screenshot%202025-07-29%20150558.png)
+![Image One](https://github.com/Benrowan910/Chimera-Tool/blob/main/GITHUBIMAGES/Screenshot%202025-07-29%20150559.png)
 
 ### Step Four
 Navigate to the Linker/Input section and input the following
