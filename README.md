@@ -25,19 +25,24 @@ Navigate to the Linker/Input section and input the following
 
 ### OpenGL
 Open GL is a graphics api that allows us to render images onto the screen using a GLFW window.
-Link: [Open GL Website] (https://www.opengl.org/)
+Link: [Open GL Website](https://www.opengl.org/)
 
 ### STB_Image
 STB_Image allows for the importing and use of 2-Dimensional textures and images.
+Link: [Open GL Website](https://github.com/nothings/stb)
 
 ### Auburn Fast Noise LIbrary
 Allows for the creation and configuration of noise in a 2-Dimensional or 3-Dimensional resolution.
+Link: [Open GL Website](https://www.opengl.org/)
 
 ### ASSIMP
 Assimp allows for the import and use of models that end in .fbx (main one for now)
+Link: [ASSIMP Repository](https://github.com/assimp/assimp)
 
 ### JSON
 Json files operations
+Link: [CPP JSON Repository](https://github.com/nlohmann/json)
 
 ### GLAD/GLM
 Extension libraries for opengl that handle math and ease of use operations.
+Link: [Open GL Website](https://www.opengl.org/)
