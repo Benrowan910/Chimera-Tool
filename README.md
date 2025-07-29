@@ -33,7 +33,7 @@ Link: [Open GL Website](https://github.com/nothings/stb)
 
 ### Auburn Fast Noise LIbrary
 Allows for the creation and configuration of noise in a 2-Dimensional or 3-Dimensional resolution.
-Link: [Open GL Website](https://www.opengl.org/)
+Link: [Auburns Fast Noise Lite](https://github.com/Auburn/FastNoiseLite/tree/master)
 
 ### ASSIMP
 Assimp allows for the import and use of models that end in .fbx (main one for now)
