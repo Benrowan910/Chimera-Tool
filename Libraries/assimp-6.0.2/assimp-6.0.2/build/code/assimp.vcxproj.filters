@@ -1,0 +1,1964 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\Assimp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\CApi\CInterfaceIOWrapper.cpp">
+      <Filter>CApi</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\Compression.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\BaseImporter.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\BaseProcess.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\PostStepRegistry.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\ImporterRegistry.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\DefaultIOStream.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\IOSystem.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\DefaultIOSystem.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\ZipArchiveIOSystem.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\Importer.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\SGSpatialSort.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\VertexTriangleAdjacency.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\SpatialSort.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\SceneCombiner.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\ScenePreprocessor.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\SkeletonMeshBuilder.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\StandardShapes.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\TargetAnimation.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\RemoveComments.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\Subdivision.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\scene.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\Bitmap.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\Version.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\CreateAnimMesh.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\simd.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\material.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\AssertHandler.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\Exceptional.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\Base64.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Geometry\GeometryUtils.cpp">
+      <Filter>Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\DefaultLogger.cpp">
+      <Filter>Logging</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\Exporter.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\CApi\AssimpCExport.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\CalcTangentsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\ComputeUVMappingProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\ConvertToLHProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\EmbedTexturesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\FindDegenerates.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\FindInstancesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\FindInvalidDataProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\FixNormalsStep.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\DropFaceNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\GenFaceNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\GenVertexNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\PretransformVertices.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\ImproveCacheLocality.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\JoinVerticesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\LimitBoneWeightsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\RemoveRedundantMaterials.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\RemoveVCProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\SortByPTypeProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\SplitLargeMeshes.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\TextureTransform.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\TriangulateProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\ValidateDataStructure.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\OptimizeGraph.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\OptimizeMeshes.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\DeboneProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\ProcessHelper.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\MakeVerboseFormat.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\ScaleProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\ArmaturePopulate.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\GenBoundingBoxesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\SplitByBoneCountProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Material\MaterialSystem.cpp">
+      <Filter>MaterialSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\STEPParser\STEPFileReader.cpp">
+      <Filter>STEPParser</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\STEPParser\STEPFileEncoding.cpp">
+      <Filter>STEPParser</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\glTFCommon\glTFCommon.cpp">
+      <Filter>glTFCommon</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\AMF\AMFImporter.cpp">
+      <Filter>AssetLib\AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\AMF\AMFImporter_Geometry.cpp">
+      <Filter>AssetLib\AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\AMF\AMFImporter_Material.cpp">
+      <Filter>AssetLib\AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\AMF\AMFImporter_Postprocess.cpp">
+      <Filter>AssetLib\AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\3DS\3DSConverter.cpp">
+      <Filter>AssetLib\3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\3DS\3DSLoader.cpp">
+      <Filter>AssetLib\3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\AC\ACLoader.cpp">
+      <Filter>AssetLib\AC</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\ASE\ASELoader.cpp">
+      <Filter>AssetLib\ASE</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\ASE\ASEParser.cpp">
+      <Filter>AssetLib\ASE</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Assbin\AssbinLoader.cpp">
+      <Filter>AssetLib\ASSBIN</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\B3D\B3DImporter.cpp">
+      <Filter>AssetLib\B3D</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\BVH\BVHLoader.cpp">
+      <Filter>AssetLib\BVH</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Collada\ColladaHelper.cpp">
+      <Filter>AssetLib\COLLADA</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Collada\ColladaLoader.cpp">
+      <Filter>AssetLib\COLLADA</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Collada\ColladaParser.cpp">
+      <Filter>AssetLib\COLLADA</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\DXF\DXFLoader.cpp">
+      <Filter>AssetLib\DXF</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\CSM\CSMLoader.cpp">
+      <Filter>AssetLib\CSM</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\HMP\HMPLoader.cpp">
+      <Filter>AssetLib\HMP</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Irr\IRRMeshLoader.cpp">
+      <Filter>AssetLib\IRRMESH</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Irr\IRRShared.cpp">
+      <Filter>AssetLib\IRRMESH</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\IQM\IQMImporter.cpp">
+      <Filter>AssetLib\IQM</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Irr\IRRLoader.cpp">
+      <Filter>AssetLib\IRR</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\LWO\LWOAnimation.cpp">
+      <Filter>AssetLib\LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\LWO\LWOBLoader.cpp">
+      <Filter>AssetLib\LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\LWO\LWOLoader.cpp">
+      <Filter>AssetLib\LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\LWO\LWOMaterial.cpp">
+      <Filter>AssetLib\LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\LWS\LWSLoader.cpp">
+      <Filter>AssetLib\LWS</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MD2\MD2Loader.cpp">
+      <Filter>AssetLib\MD2</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MD3\MD3Loader.cpp">
+      <Filter>AssetLib\MD3</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MD5\MD5Loader.cpp">
+      <Filter>AssetLib\MD5</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MD5\MD5Parser.cpp">
+      <Filter>AssetLib\MD5</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MDC\MDCLoader.cpp">
+      <Filter>AssetLib\MDC</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MDL\MDLLoader.cpp">
+      <Filter>AssetLib\MDL</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MDL\MDLMaterialLoader.cpp">
+      <Filter>AssetLib\MDL</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MDL\HalfLife\HL1MDLLoader.cpp">
+      <Filter>AssetLib\MDL</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MDL\HalfLife\UniqueNameGenerator.cpp">
+      <Filter>AssetLib\MDL</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\NFF\NFFLoader.cpp">
+      <Filter>AssetLib\NFF</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\NDO\NDOLoader.cpp">
+      <Filter>AssetLib\NDO</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\OFF\OFFLoader.cpp">
+      <Filter>AssetLib\OFF</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Obj\ObjFileImporter.cpp">
+      <Filter>AssetLib\OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Obj\ObjFileMtlImporter.cpp">
+      <Filter>AssetLib\OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Obj\ObjFileParser.cpp">
+      <Filter>AssetLib\OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Ogre\OgreImporter.cpp">
+      <Filter>AssetLib\OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Ogre\OgreStructs.cpp">
+      <Filter>AssetLib\OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Ogre\OgreBinarySerializer.cpp">
+      <Filter>AssetLib\OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Ogre\OgreXmlSerializer.cpp">
+      <Filter>AssetLib\OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Ogre\OgreMaterial.cpp">
+      <Filter>AssetLib\OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\OpenGEX\OpenGEXImporter.cpp">
+      <Filter>AssetLib\OPENGEX</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Ply\PlyLoader.cpp">
+      <Filter>AssetLib\PLY</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Ply\PlyParser.cpp">
+      <Filter>AssetLib\PLY</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MS3D\MS3DLoader.cpp">
+      <Filter>AssetLib\MS3D</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\COB\COBLoader.cpp">
+      <Filter>AssetLib\COB</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Blender\BlenderLoader.cpp">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Blender\BlenderDNA.cpp">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Blender\BlenderScene.cpp">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Blender\BlenderModifier.cpp">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Blender\BlenderBMesh.cpp">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Blender\BlenderTessellator.cpp">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Blender\BlenderCustomData.cpp">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\IFC\IFCLoader.cpp">
+      <Filter>AssetLib\IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\IFC\IFCReaderGen1_2x3.cpp">
+      <Filter>AssetLib\IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\IFC\IFCReaderGen2_2x3.cpp">
+      <Filter>AssetLib\IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\IFC\IFCUtil.cpp">
+      <Filter>AssetLib\IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\IFC\IFCGeometry.cpp">
+      <Filter>AssetLib\IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\IFC\IFCMaterial.cpp">
+      <Filter>AssetLib\IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\IFC\IFCProfile.cpp">
+      <Filter>AssetLib\IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\IFC\IFCCurve.cpp">
+      <Filter>AssetLib\IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\IFC\IFCBoolean.cpp">
+      <Filter>AssetLib\IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\IFC\IFCOpenings.cpp">
+      <Filter>AssetLib\IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\XGL\XGLLoader.cpp">
+      <Filter>AssetLib\XGL</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\FBX\FBXImporter.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\FBX\FBXParser.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\FBX\FBXTokenizer.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\FBX\FBXConverter.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\FBX\FBXUtil.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\FBX\FBXDocument.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\FBX\FBXProperties.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\FBX\FBXMeshGeometry.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\FBX\FBXMaterial.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\FBX\FBXModel.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\FBX\FBXAnimation.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\FBX\FBXNodeAttribute.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\FBX\FBXDeformer.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\FBX\FBXBinaryTokenizer.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\FBX\FBXDocumentUtil.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Q3D\Q3DLoader.cpp">
+      <Filter>AssetLib\Q3D</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Q3BSP\Q3BSPFileParser.cpp">
+      <Filter>AssetLib\Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Q3BSP\Q3BSPFileImporter.cpp">
+      <Filter>AssetLib\Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Raw\RawLoader.cpp">
+      <Filter>AssetLib\RAW</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\SIB\SIBImporter.cpp">
+      <Filter>AssetLib\SIB</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\SMD\SMDLoader.cpp">
+      <Filter>AssetLib\SMD</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\STL\STLLoader.cpp">
+      <Filter>AssetLib\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Terragen\TerragenLoader.cpp">
+      <Filter>AssetLib\TERRAGEN</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Unreal\UnrealLoader.cpp">
+      <Filter>AssetLib\3D</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\X\XFileImporter.cpp">
+      <Filter>AssetLib\X</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\X\XFileParser.cpp">
+      <Filter>AssetLib\X</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\X3D\X3DImporter.cpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\X3D\X3DImporter_Geometry2D.cpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\X3D\X3DImporter_Geometry3D.cpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\X3D\X3DImporter_Group.cpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\X3D\X3DImporter_Light.cpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\X3D\X3DImporter_Metadata.cpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\X3D\X3DImporter_Networking.cpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\X3D\X3DImporter_Postprocess.cpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\X3D\X3DImporter_Rendering.cpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\X3D\X3DImporter_Shape.cpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\X3D\X3DImporter_Texturing.cpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\X3D\X3DGeoHelper.cpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\X3D\X3DXmlHelper.cpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\VRML\VrmlConverter.cpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\glTF\glTFImporter.cpp">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\glTF2\glTF2Importer.cpp">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\3MF\XmlSerializer.cpp">
+      <Filter>AssetLib\3MF</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\3MF\D3MFImporter.cpp">
+      <Filter>AssetLib\3MF</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\3MF\D3MFOpcPackage.cpp">
+      <Filter>AssetLib\3MF</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MMD\MMDImporter.cpp">
+      <Filter>AssetLib\MMD</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MMD\MMDPmxParser.cpp">
+      <Filter>AssetLib\MMD</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Obj\ObjExporter.cpp">
+      <Filter>AssetLib\OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\OpenGEX\OpenGEXExporter.cpp">
+      <Filter>AssetLib\OPENGEX</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Ply\PlyExporter.cpp">
+      <Filter>AssetLib\PLY</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\3DS\3DSExporter.cpp">
+      <Filter>AssetLib\3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Assbin\AssbinExporter.cpp">
+      <Filter>AssetLib\ASSBIN</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Assbin\AssbinFileWriter.cpp">
+      <Filter>AssetLib\ASSBIN</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Assxml\AssxmlExporter.cpp">
+      <Filter>AssetLib\ASSXML</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Assxml\AssxmlFileWriter.cpp">
+      <Filter>AssetLib\ASSXML</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Collada\ColladaExporter.cpp">
+      <Filter>AssetLib\COLLADA</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\FBX\FBXExporter.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\FBX\FBXExportNode.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\FBX\FBXExportProperty.cpp">
+      <Filter>AssetLib\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\STL\STLExporter.cpp">
+      <Filter>AssetLib\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\X\XFileExporter.cpp">
+      <Filter>AssetLib\X</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\X3D\X3DExporter.cpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\glTF\glTFExporter.cpp">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\glTF2\glTF2Exporter.cpp">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\3MF\D3MFExporter.cpp">
+      <Filter>AssetLib\3MF</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Pbrt\PbrtExporter.cpp">
+      <Filter>AssetLib\PBRT</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Assjson\cencode.c">
+      <Filter>AssetLib\ASSJSON</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Assjson\json_exporter.cpp">
+      <Filter>AssetLib\ASSJSON</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Assjson\mesh_splitter.cpp">
+      <Filter>AssetLib\ASSJSON</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Step\StepExporter.cpp">
+      <Filter>AssetLib\STEP</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\unzip\ioapi.c">
+      <Filter>Contrib\unzip</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\unzip\unzip.c">
+      <Filter>Contrib\unzip</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\poly2tri\poly2tri\common\shapes.cc">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\poly2tri\poly2tri\sweep\advancing_front.cc">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\poly2tri\poly2tri\sweep\cdt.cc">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\poly2tri\poly2tri\sweep\sweep.cc">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\poly2tri\poly2tri\sweep\sweep_context.cc">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\clipper\clipper.cpp">
+      <Filter>Contrib\Clipper</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\openddlparser\code\OpenDDLParser.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\openddlparser\code\DDLNode.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\openddlparser\code\OpenDDLCommon.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\openddlparser\code\OpenDDLExport.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\openddlparser\code\Value.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\openddlparser\code\OpenDDLStream.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\Open3DGC\o3dgcArithmeticCodec.cpp">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\Open3DGC\o3dgcDynamicVectorDecoder.cpp">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\Open3DGC\o3dgcDynamicVectorEncoder.cpp">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\Open3DGC\o3dgcTools.cpp">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\Open3DGC\o3dgcTriangleFans.cpp">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\zip\src\zip.c">
+      <Filter>ziplib</Filter>
+    </ClCompile>
+    <ClCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\pugixml\src\pugixml.cpp">
+      <Filter>Contrib\Pugixml</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\CApi\CInterfaceIOWrapper.h">
+      <Filter>CApi</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\StbCommon.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\Compression.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\BaseProcess.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\Importer.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\ScenePrivate.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\DefaultProgressHandler.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\PolyTools.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\Maybe.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\IFF.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\VertexTriangleAdjacency.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\ScenePreprocessor.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\StackAllocator.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\StackAllocator.inl">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\TargetAnimation.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\simd.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Geometry\GeometryUtils.h">
+      <Filter>Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\DefaultLogger.hpp">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\LogStream.hpp">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\Logger.hpp">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\NullLogger.hpp">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\Win32DebugLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\FileLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Common\StdOStreamLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\BlobIOSystem.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\CalcTangentsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\ComputeUVMappingProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\ConvertToLHProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\EmbedTexturesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\FindDegenerates.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\FindInstancesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\FindInvalidDataProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\FixNormalsStep.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\DropFaceNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\GenFaceNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\GenVertexNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\PretransformVertices.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\ImproveCacheLocality.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\JoinVerticesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\LimitBoneWeightsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\RemoveRedundantMaterials.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\RemoveVCProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\SortByPTypeProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\SplitLargeMeshes.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\TextureTransform.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\TriangulateProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\ValidateDataStructure.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\OptimizeGraph.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\OptimizeMeshes.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\DeboneProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\ProcessHelper.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\MakeVerboseFormat.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\ScaleProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\ArmaturePopulate.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\GenBoundingBoxesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\PostProcessing\SplitByBoneCountProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Material\MaterialSystem.h">
+      <Filter>MaterialSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\STEPParser\STEPFileReader.h">
+      <Filter>STEPParser</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\STEPParser\STEPFileEncoding.h">
+      <Filter>STEPParser</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\glTFCommon\glTFCommon.h">
+      <Filter>glTFCommon</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\AMF\AMFImporter.hpp">
+      <Filter>AssetLib\AMF</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\AMF\AMFImporter_Node.hpp">
+      <Filter>AssetLib\AMF</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\3DS\3DSHelper.h">
+      <Filter>AssetLib\3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\3DS\3DSLoader.h">
+      <Filter>AssetLib\3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\AC\ACLoader.h">
+      <Filter>AssetLib\AC</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\ASE\ASELoader.h">
+      <Filter>AssetLib\ASE</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\ASE\ASEParser.h">
+      <Filter>AssetLib\ASE</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Assbin\AssbinLoader.h">
+      <Filter>AssetLib\ASSBIN</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\B3D\B3DImporter.h">
+      <Filter>AssetLib\B3D</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\BVH\BVHLoader.h">
+      <Filter>AssetLib\BVH</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Collada\ColladaHelper.h">
+      <Filter>AssetLib\COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Collada\ColladaLoader.h">
+      <Filter>AssetLib\COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Collada\ColladaParser.h">
+      <Filter>AssetLib\COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\DXF\DXFLoader.h">
+      <Filter>AssetLib\DXF</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\DXF\DXFHelper.h">
+      <Filter>AssetLib\DXF</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\CSM\CSMLoader.h">
+      <Filter>AssetLib\CSM</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\HMP\HMPFileData.h">
+      <Filter>AssetLib\HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\HMP\HMPLoader.h">
+      <Filter>AssetLib\HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\HMP\HalfLifeFileData.h">
+      <Filter>AssetLib\HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Irr\IRRMeshLoader.h">
+      <Filter>AssetLib\IRRMESH</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Irr\IRRShared.h">
+      <Filter>AssetLib\IRRMESH</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\IQM\iqm.h">
+      <Filter>AssetLib\IQM</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\IQM\IQMImporter.h">
+      <Filter>AssetLib\IQM</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Irr\IRRLoader.h">
+      <Filter>AssetLib\IRR</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\LWO\LWOAnimation.h">
+      <Filter>AssetLib\LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\LWO\LWOFileData.h">
+      <Filter>AssetLib\LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\LWO\LWOLoader.h">
+      <Filter>AssetLib\LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\LWS\LWSLoader.h">
+      <Filter>AssetLib\LWS</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MD2\MD2FileData.h">
+      <Filter>AssetLib\MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MD2\MD2Loader.h">
+      <Filter>AssetLib\MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MD2\MD2NormalTable.h">
+      <Filter>AssetLib\MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MD3\MD3FileData.h">
+      <Filter>AssetLib\MD3</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MD3\MD3Loader.h">
+      <Filter>AssetLib\MD3</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MD5\MD5Loader.h">
+      <Filter>AssetLib\MD5</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MD5\MD5Parser.h">
+      <Filter>AssetLib\MD5</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MDC\MDCFileData.h">
+      <Filter>AssetLib\MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MDC\MDCLoader.h">
+      <Filter>AssetLib\MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MDC\MDCNormalTable.h">
+      <Filter>AssetLib\MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MDL\MDLDefaultColorMap.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MDL\MDLFileData.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MDL\MDLLoader.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MDL\HalfLife\HalfLifeMDLBaseHeader.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MDL\HalfLife\HL1FileData.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MDL\HalfLife\HL1MDLLoader.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MDL\HalfLife\HL1ImportDefinitions.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MDL\HalfLife\HL1ImportSettings.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MDL\HalfLife\HL1MeshTrivert.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MDL\HalfLife\LogFunctions.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MDL\HalfLife\UniqueNameGenerator.h">
+      <Filter>AssetLib\MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\NFF\NFFLoader.h">
+      <Filter>AssetLib\NFF</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\NDO\NDOLoader.h">
+      <Filter>AssetLib\NDO</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\OFF\OFFLoader.h">
+      <Filter>AssetLib\OFF</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Obj\ObjFileData.h">
+      <Filter>AssetLib\OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Obj\ObjFileImporter.h">
+      <Filter>AssetLib\OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Obj\ObjFileMtlImporter.h">
+      <Filter>AssetLib\OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Obj\ObjFileParser.h">
+      <Filter>AssetLib\OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Obj\ObjTools.h">
+      <Filter>AssetLib\OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Ogre\OgreImporter.h">
+      <Filter>AssetLib\OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Ogre\OgreStructs.h">
+      <Filter>AssetLib\OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Ogre\OgreParsingUtils.h">
+      <Filter>AssetLib\OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Ogre\OgreBinarySerializer.h">
+      <Filter>AssetLib\OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Ogre\OgreXmlSerializer.h">
+      <Filter>AssetLib\OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\OpenGEX\OpenGEXImporter.h">
+      <Filter>AssetLib\OPENGEX</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\OpenGEX\OpenGEXStructs.h">
+      <Filter>AssetLib\OPENGEX</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Ply\PlyLoader.h">
+      <Filter>AssetLib\PLY</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Ply\PlyParser.h">
+      <Filter>AssetLib\PLY</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MS3D\MS3DLoader.h">
+      <Filter>AssetLib\MS3D</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\COB\COBLoader.h">
+      <Filter>AssetLib\COB</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\COB\COBScene.h">
+      <Filter>AssetLib\COB</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Blender\BlenderLoader.h">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Blender\BlenderDNA.h">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Blender\BlenderDNA.inl">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Blender\BlenderScene.h">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Blender\BlenderSceneGen.h">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Blender\BlenderIntermediate.h">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Blender\BlenderModifier.h">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Blender\BlenderBMesh.h">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Blender\BlenderTessellator.h">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Blender\BlenderCustomData.h">
+      <Filter>AssetLib\BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\IFC\IFCLoader.h">
+      <Filter>AssetLib\IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\IFC\IFCReaderGen_2x3.h">
+      <Filter>AssetLib\IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\IFC\IFCUtil.h">
+      <Filter>AssetLib\IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\XGL\XGLLoader.h">
+      <Filter>AssetLib\XGL</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\FBX\FBXCompileConfig.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\FBX\FBXImporter.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\FBX\FBXParser.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\FBX\FBXTokenizer.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\FBX\FBXImportSettings.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\FBX\FBXConverter.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\FBX\FBXUtil.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\FBX\FBXDocument.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\FBX\FBXProperties.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\FBX\FBXMeshGeometry.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\FBX\FBXCommon.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Q3D\Q3DLoader.h">
+      <Filter>AssetLib\Q3D</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Q3BSP\Q3BSPFileData.h">
+      <Filter>AssetLib\Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Q3BSP\Q3BSPFileParser.h">
+      <Filter>AssetLib\Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Q3BSP\Q3BSPFileImporter.h">
+      <Filter>AssetLib\Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Raw\RawLoader.h">
+      <Filter>AssetLib\RAW</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\SIB\SIBImporter.h">
+      <Filter>AssetLib\SIB</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\SMD\SMDLoader.h">
+      <Filter>AssetLib\SMD</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\STL\STLLoader.h">
+      <Filter>AssetLib\STL</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Terragen\TerragenLoader.h">
+      <Filter>AssetLib\TERRAGEN</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Unreal\UnrealLoader.h">
+      <Filter>AssetLib\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\X\XFileHelper.h">
+      <Filter>AssetLib\X</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\X\XFileImporter.h">
+      <Filter>AssetLib\X</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\X\XFileParser.h">
+      <Filter>AssetLib\X</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\X3D\X3DImporter.hpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\X3D\X3DImporter_Macro.hpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\X3D\X3DImporter_Node.hpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\X3D\X3DGeoHelper.h">
+      <Filter>AssetLib\X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\X3D\X3DXmlHelper.h">
+      <Filter>AssetLib\X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\glTF\glTFAsset.h">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\glTF\glTFAsset.inl">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\glTF\glTFAssetWriter.h">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\glTF\glTFAssetWriter.inl">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\glTF\glTFImporter.h">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\glTF2\glTF2Asset.h">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\glTF2\glTF2Asset.inl">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\glTF2\glTF2AssetWriter.h">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\glTF2\glTF2AssetWriter.inl">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\glTF2\glTF2Importer.h">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\3MF\3MFTypes.h">
+      <Filter>AssetLib\3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\3MF\XmlSerializer.h">
+      <Filter>AssetLib\3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\3MF\D3MFImporter.h">
+      <Filter>AssetLib\3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\3MF\D3MFOpcPackage.h">
+      <Filter>AssetLib\3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\3MF\3MFXmlTags.h">
+      <Filter>AssetLib\3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MMD\MMDCpp14.h">
+      <Filter>AssetLib\MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MMD\MMDImporter.h">
+      <Filter>AssetLib\MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MMD\MMDPmdParser.h">
+      <Filter>AssetLib\MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MMD\MMDPmxParser.h">
+      <Filter>AssetLib\MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\MMD\MMDVmdParser.h">
+      <Filter>AssetLib\MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Obj\ObjExporter.h">
+      <Filter>AssetLib\OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\OpenGEX\OpenGEXExporter.h">
+      <Filter>AssetLib\OPENGEX</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Ply\PlyExporter.h">
+      <Filter>AssetLib\PLY</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\3DS\3DSExporter.h">
+      <Filter>AssetLib\3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Assbin\AssbinExporter.h">
+      <Filter>AssetLib\ASSBIN</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Assbin\AssbinFileWriter.h">
+      <Filter>AssetLib\ASSBIN</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Assxml\AssxmlExporter.h">
+      <Filter>AssetLib\ASSXML</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Assxml\AssxmlFileWriter.h">
+      <Filter>AssetLib\ASSXML</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Collada\ColladaExporter.h">
+      <Filter>AssetLib\COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\FBX\FBXExporter.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\FBX\FBXExportNode.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\FBX\FBXExportProperty.h">
+      <Filter>AssetLib\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\STL\STLExporter.h">
+      <Filter>AssetLib\STL</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\X\XFileExporter.h">
+      <Filter>AssetLib\X</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\X3D\X3DExporter.hpp">
+      <Filter>AssetLib\X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\glTF\glTFExporter.h">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\glTF2\glTF2Exporter.h">
+      <Filter>AssetLib\GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\3MF\D3MFExporter.h">
+      <Filter>AssetLib\3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\Pbrt\PbrtExporter.h">
+      <Filter>AssetLib\PBRT</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Assjson\cencode.h">
+      <Filter>AssetLib\ASSJSON</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Assjson\mesh_splitter.h">
+      <Filter>AssetLib\ASSJSON</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\AssetLib\Step\StepExporter.h">
+      <Filter>AssetLib\STEP</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\unzip\crypt.h">
+      <Filter>Contrib\unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\unzip\ioapi.h">
+      <Filter>Contrib\unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\unzip\unzip.h">
+      <Filter>Contrib\unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\poly2tri\poly2tri\common\shapes.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\poly2tri\poly2tri\common\utils.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\poly2tri\poly2tri\sweep\advancing_front.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\poly2tri\poly2tri\sweep\cdt.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\poly2tri\poly2tri\sweep\sweep.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\poly2tri\poly2tri\sweep\sweep_context.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\clipper\clipper.hpp">
+      <Filter>Contrib\Clipper</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\openddlparser\include\openddlparser\OpenDDLParser.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\openddlparser\include\openddlparser\OpenDDLParserUtils.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\openddlparser\include\openddlparser\OpenDDLCommon.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\openddlparser\include\openddlparser\OpenDDLExport.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\openddlparser\include\openddlparser\OpenDDLStream.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\openddlparser\include\openddlparser\DDLNode.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\openddlparser\include\openddlparser\Value.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\Open3DGC\o3dgcAdjacencyInfo.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\Open3DGC\o3dgcArithmeticCodec.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\Open3DGC\o3dgcBinaryStream.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\Open3DGC\o3dgcCommon.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\Open3DGC\o3dgcDVEncodeParams.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\Open3DGC\o3dgcDynamicVectorDecoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\Open3DGC\o3dgcDynamicVectorEncoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\Open3DGC\o3dgcDynamicVector.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\Open3DGC\o3dgcFIFO.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\Open3DGC\o3dgcIndexedFaceSet.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\Open3DGC\o3dgcIndexedFaceSet.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\Open3DGC\o3dgcSC3DMCDecoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\Open3DGC\o3dgcSC3DMCDecoder.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\Open3DGC\o3dgcSC3DMCEncodeParams.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\Open3DGC\o3dgcSC3DMCEncoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\Open3DGC\o3dgcSC3DMCEncoder.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\Open3DGC\o3dgcTimer.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\Open3DGC\o3dgcTriangleFans.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\Open3DGC\o3dgcTriangleListDecoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\Open3DGC\o3dgcTriangleListDecoder.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\Open3DGC\o3dgcTriangleListEncoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\Open3DGC\o3dgcTriangleListEncoder.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\Open3DGC\o3dgcVector.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\Open3DGC\o3dgcVector.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\zip\src\miniz.h">
+      <Filter>ziplib</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\zip\src\zip.h">
+      <Filter>ziplib</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\pugixml\src\pugiconfig.hpp">
+      <Filter>Contrib\Pugixml</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\pugixml\src\pugixml.hpp">
+      <Filter>Contrib\Pugixml</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\contrib\stb\stb_image.h">
+      <Filter>Contrib\stb</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\anim.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\aabb.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\ai_assert.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\camera.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\color4.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\color4.inl">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\build\include\assimp\config.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\ColladaMetaData.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\commonMetaData.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\defs.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\cfileio.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\light.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\material.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\material.inl">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\matrix3x3.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\matrix3x3.inl">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\matrix4x4.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\matrix4x4.inl">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\mesh.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\ObjMaterial.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\pbrmaterial.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\GltfMaterial.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\postprocess.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\quaternion.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\quaternion.inl">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\scene.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\metadata.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\texture.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\types.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\vector2.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\vector2.inl">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\vector3.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\vector3.inl">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\version.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\cimport.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\AssertHandler.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\importerdesc.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\Importer.hpp">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\ProgressHandler.hpp">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\IOStream.hpp">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\IOSystem.hpp">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\cexport.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\Exporter.hpp">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\DefaultIOStream.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\DefaultIOSystem.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\ZipArchiveIOSystem.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\SceneCombiner.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\fast_atof.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\qnan.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\BaseImporter.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\Hash.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\MemoryIOWrapper.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\ParsingUtils.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\StreamReader.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\StreamWriter.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\StringComparison.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\StringUtils.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\SGSpatialSort.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\GenericProperty.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\SpatialSort.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\SkeletonMeshBuilder.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\SmallVector.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\SmoothingGroups.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\SmoothingGroups.inl">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\StandardShapes.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\RemoveComments.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\Subdivision.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\Vertex.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\LineSplitter.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\TinyFormatter.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\Profiler.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\LogAux.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\Bitmap.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\XMLTools.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\IOStreamBuffer.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\CreateAnimMesh.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\XmlParser.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\MathFunctions.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\Exceptional.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\ByteSwapper.h">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\Base64.hpp">
+      <Filter>include\assimp</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\Compiler\pushpack1.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\Compiler\poppack1.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\include\assimp\Compiler\pstdint.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\code\res\assimp.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="AssetLib">
+      <UniqueIdentifier>{547F701F-365B-3F77-A1BA-0483098EE378}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\3D">
+      <UniqueIdentifier>{71942188-83A6-3B9D-B7C8-4CC8481C3B2D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\3DS">
+      <UniqueIdentifier>{55A5C045-EBB5-321C-870C-D7DAC220BB31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\3MF">
+      <UniqueIdentifier>{6DB1DF47-4BBA-3F90-A204-DB2E5ACC05F8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\AC">
+      <UniqueIdentifier>{1A16E30C-4408-3565-99E3-6AEEAD0B57F4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\AMF">
+      <UniqueIdentifier>{E99F6924-39C9-349C-A96B-089CFF3FB54D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\ASE">
+      <UniqueIdentifier>{E42EC955-C7EC-309D-912E-8BBFBD7FB72D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\ASSBIN">
+      <UniqueIdentifier>{C8EE9D01-5C17-372C-8C5E-81BA18BCC9EE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\ASSJSON">
+      <UniqueIdentifier>{96EECA61-391D-3FEC-AD51-3DD9386D1230}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\ASSXML">
+      <UniqueIdentifier>{9743E150-2E70-362C-AC15-DDCEF59396E8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\B3D">
+      <UniqueIdentifier>{ADA463DF-4B32-3FF4-8703-9089E4CE8E77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\BLEND">
+      <UniqueIdentifier>{F5EC3CA4-A66E-324D-8C2B-1DD588CF7843}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\BVH">
+      <UniqueIdentifier>{EA36AD7F-1C7C-3FA6-8C80-834FD476546B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\COB">
+      <UniqueIdentifier>{78B6D897-26E2-39DE-82D6-34A2FBC63B3C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\COLLADA">
+      <UniqueIdentifier>{6E144DCC-A33A-3031-9207-E3D29E439BDE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\CSM">
+      <UniqueIdentifier>{DB68A301-4816-37C0-AD22-8A40E9DF6F4E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\DXF">
+      <UniqueIdentifier>{01251FB6-3B92-39E0-B974-1044293FFBD2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\FBX">
+      <UniqueIdentifier>{0C50353A-A742-35B0-9F8E-513B94CF7189}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\GLTF">
+      <UniqueIdentifier>{DEABD4EF-0A62-3C82-B284-F467E9258ACF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\HMP">
+      <UniqueIdentifier>{B2CEB53F-B407-3F3A-B0D4-596FC51A9457}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\IFC">
+      <UniqueIdentifier>{B3F31F72-1D9B-3B9B-BEB1-4E6A00C1D794}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\IQM">
+      <UniqueIdentifier>{CBACA9F3-A418-3602-990C-6CE343A1DB24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\IRR">
+      <UniqueIdentifier>{CEECA42F-8262-39C4-8C50-80272A32FF4F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\IRRMESH">
+      <UniqueIdentifier>{443AB082-31B3-3C49-9DEE-F717B10527F7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\LWO">
+      <UniqueIdentifier>{130E13ED-60D9-3E8E-98F7-C5EAFA9445A6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\LWS">
+      <UniqueIdentifier>{4481C8F1-CAF1-3B24-A755-EE25635710F5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\MD2">
+      <UniqueIdentifier>{2E241CBE-85B0-339C-881E-D46F59B979FC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\MD3">
+      <UniqueIdentifier>{5AE26D08-E88D-332F-B522-81D73290556C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\MD5">
+      <UniqueIdentifier>{FB1C229E-2B7A-3F46-B187-E10865461CF8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\MDC">
+      <UniqueIdentifier>{F0DB5FAF-F966-3B01-8DAD-FDAA7EC8EDDE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\MDL">
+      <UniqueIdentifier>{08AD7827-B087-3A0B-A59B-648C354F3275}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\MMD">
+      <UniqueIdentifier>{E5C81864-2297-39AB-A739-70A4AD517DC0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\MS3D">
+      <UniqueIdentifier>{0C935E6A-B69A-3343-B01D-E2929763C571}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\NDO">
+      <UniqueIdentifier>{D54322A2-9DCD-315E-9C37-5B763CBD04AD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\NFF">
+      <UniqueIdentifier>{F4B81F01-1334-3448-AB31-3E1DC8384AF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\OBJ">
+      <UniqueIdentifier>{1CAE4477-118D-3841-A48A-E18D28B965E8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\OFF">
+      <UniqueIdentifier>{780CE5CC-7E5C-3D48-9682-2FAA3FE31618}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\OGRE">
+      <UniqueIdentifier>{BCCC6F80-8615-35DD-B1FD-CA7464E52362}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\OPENGEX">
+      <UniqueIdentifier>{30487C16-6AED-3EEB-B33C-15818D90BE48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\PBRT">
+      <UniqueIdentifier>{17B217FF-9788-37FD-89A7-FEF4021BF704}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\PLY">
+      <UniqueIdentifier>{FBE690F7-EAC6-3021-A5E7-5A18AD00E9CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\Q3BSP">
+      <UniqueIdentifier>{1F50F93D-A4E1-3216-B49C-C48587E29115}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\Q3D">
+      <UniqueIdentifier>{14EAE0B0-0129-3EA6-9CA5-EBF907F457EA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\RAW">
+      <UniqueIdentifier>{D6C13FC3-0C08-3EC8-80A4-1F4AEAE0C417}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\SIB">
+      <UniqueIdentifier>{D934A6BD-25D3-3298-9785-13D3777C5475}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\SMD">
+      <UniqueIdentifier>{134CC919-9C4C-376B-A5FB-852A94F98695}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\STEP">
+      <UniqueIdentifier>{0C41E2F6-38D3-3945-9DC9-D231F3B078E4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\STL">
+      <UniqueIdentifier>{C267E425-542B-3298-8484-3B720480A65E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\TERRAGEN">
+      <UniqueIdentifier>{CEBEB963-1D05-364D-9293-530CB92991F3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\X">
+      <UniqueIdentifier>{EB0F5536-79E5-39D2-8CA4-DD9B96FE45DE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\X3D">
+      <UniqueIdentifier>{ECEA76C5-A6E2-313E-B695-9870CC39BEC7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AssetLib\XGL">
+      <UniqueIdentifier>{F947CABD-900D-3484-99D9-A2F09201ADBA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CApi">
+      <UniqueIdentifier>{FA379F37-974D-3523-B488-DFDCACE7C46E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{28D1D566-FAF7-3CBA-B092-27D75BF3D495}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Compiler">
+      <UniqueIdentifier>{3C1FC5D8-293A-364F-9128-994EB9CAF39D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib">
+      <UniqueIdentifier>{58AA4F40-E992-336E-9FA1-77A57393B4B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\Clipper">
+      <UniqueIdentifier>{07FD71E6-D374-3EE4-A82B-2FE83C075492}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\Poly2Tri">
+      <UniqueIdentifier>{E4EDAB1C-BDD0-3EE5-8FC8-ACA850A6CEDB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\Pugixml">
+      <UniqueIdentifier>{75C5969F-297F-3BFC-B608-C9822E1F9E62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\open3dgc">
+      <UniqueIdentifier>{24E5B992-6D91-3206-9FD1-75F5C5D26143}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\openddl_parser">
+      <UniqueIdentifier>{564AB4F8-36A6-39A8-9714-4DC745EDFFD7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\stb">
+      <UniqueIdentifier>{EB718EA7-2BE3-3532-B76B-100DBB9EF35C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\unzip">
+      <UniqueIdentifier>{A6803A3C-939C-3A86-B966-D42C905EE682}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Exporter">
+      <UniqueIdentifier>{D826A589-99EE-38BC-B725-D056281E8C44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Geometry">
+      <UniqueIdentifier>{608AEF06-B8B3-33C4-AA16-8D92AE67079C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logging">
+      <UniqueIdentifier>{CCDB6146-8057-36A1-AE0E-4F5F3DF7FAEB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MaterialSystem">
+      <UniqueIdentifier>{FB4BC80B-36AF-35E8-81F1-00C03F6B082F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PostProcessing">
+      <UniqueIdentifier>{D3CE5412-7A8C-37B7-A1AB-0A48E153B89D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STEPParser">
+      <UniqueIdentifier>{173788BE-B30F-305E-AD8F-A8CA1AC87D9A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{EFE8952F-E221-37DC-B891-E38A6505BAD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="glTFCommon">
+      <UniqueIdentifier>{5FB4F624-12F1-35BE-9D26-410754ABEE38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include">
+      <UniqueIdentifier>{4E086638-CA85-3AAC-BFED-C82FE197B39F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\assimp">
+      <UniqueIdentifier>{E450FD87-341B-3B07-A430-73EF73B91ADC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ziplib">
+      <UniqueIdentifier>{EB8A9CE3-A200-30E2-9AD5-7A6A17B10B90}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

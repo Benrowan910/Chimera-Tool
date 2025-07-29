@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="Y:\NPAProjs\ArtProgram\Chimera\Libraries\assimp-6.0.2\assimp-6.0.2\build\CMakeFiles\6534dcd786587e6b028411a0aba1b70f\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{17BE2BD7-694C-34BA-A2C4-DA678EB766EC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/cmake_install.cmake",
+		"Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/contrib/zlib/cmake_install.cmake",
+		"Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/code/cmake_install.cmake",
+		"Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/test/cmake_install.cmake",
+		"Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/test/headercheck/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

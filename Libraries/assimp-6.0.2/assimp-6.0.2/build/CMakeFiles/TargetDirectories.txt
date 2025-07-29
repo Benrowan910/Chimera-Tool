@@ -1,0 +1,13 @@
+Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/uninstall.dir
+Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/UpdateAssimpLibsDebugSymbolsAndDLLs.dir
+Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/INSTALL.dir
+Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/ALL_BUILD.dir
+Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/ZERO_CHECK.dir
+Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/contrib/zlib/CMakeFiles/zlibstatic.dir
+Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/contrib/zlib/CMakeFiles/INSTALL.dir
+Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/contrib/zlib/CMakeFiles/ALL_BUILD.dir
+Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/code/CMakeFiles/assimp.dir
+Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/code/CMakeFiles/INSTALL.dir
+Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/test/CMakeFiles/unit.dir
+Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/test/CMakeFiles/INSTALL.dir
+Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/test/headercheck/CMakeFiles/INSTALL.dir

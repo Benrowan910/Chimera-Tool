@@ -1,0 +1,631 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineSystem.cmake:205 (message)"
+      - "CMakeLists.txt:107 (PROJECT)"
+    message: |
+      The system is: Windows - 10.0.22621 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:107 (PROJECT)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler:  
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      MSBuild version 17.14.8+a7a4d5af0 for .NET Framework
+      Build started 7/29/2025 2:21:40 PM.
+      
+      Project "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\4.0.3\\CompilerIdC\\CompilerIdC.vcxproj" on node 1 (default targets).
+      PrepareForBuild:
+        Creating directory "Debug\\".
+        Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+        Creating directory "Debug\\CompilerIdC.tlog\\".
+      InitializeBuildStatus:
+        Creating "Debug\\CompilerIdC.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+        Touching "Debug\\CompilerIdC.tlog\\unsuccessfulbuild".
+      ClCompile:
+        C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\\\" /Fd"Debug\\vc143.pdb" /external:W0 /Gd /TC /FC /errorReport:queue CMakeCCompilerId.c
+        CMakeCCompilerId.c
+      Link:
+        C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdC.lib" /MACHINE:X64 Debug\\CMakeCCompilerId.obj
+        CompilerIdC.vcxproj -> Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\4.0.3\\CompilerIdC\\CompilerIdC.exe
+      PostBuildEvent:
+        for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+        :VCEnd
+        CMAKE_C_COMPILER=C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe
+      FinalizeBuildStatus:
+        Deleting file "Debug\\CompilerIdC.tlog\\unsuccessfulbuild".
+        Touching "Debug\\CompilerIdC.tlog\\CompilerIdC.lastbuildstate".
+      Done Building Project "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\4.0.3\\CompilerIdC\\CompilerIdC.vcxproj" (default targets).
+      
+      Build succeeded.
+          0 Warning(s)
+          0 Error(s)
+      
+      Time Elapsed 00:00:00.57
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+      
+      The C compiler identification is MSVC, found in:
+        Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/4.0.3/CompilerIdC/CompilerIdC.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:107 (PROJECT)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler:  
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      MSBuild version 17.14.8+a7a4d5af0 for .NET Framework
+      Build started 7/29/2025 2:21:42 PM.
+      
+      Project "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\4.0.3\\CompilerIdCXX\\CompilerIdCXX.vcxproj" on node 1 (default targets).
+      PrepareForBuild:
+        Creating directory "Debug\\".
+        Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+        Creating directory "Debug\\CompilerIdCXX.tlog\\".
+      InitializeBuildStatus:
+        Creating "Debug\\CompilerIdCXX.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+        Touching "Debug\\CompilerIdCXX.tlog\\unsuccessfulbuild".
+      ClCompile:
+        C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\\\" /Fd"Debug\\vc143.pdb" /external:W0 /Gd /TP /FC /errorReport:queue CMakeCXXCompilerId.cpp
+        CMakeCXXCompilerId.cpp
+      Link:
+        C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdCXX.lib" /MACHINE:X64 Debug\\CMakeCXXCompilerId.obj
+        CompilerIdCXX.vcxproj -> Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\4.0.3\\CompilerIdCXX\\CompilerIdCXX.exe
+      PostBuildEvent:
+        for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+        :VCEnd
+        CMAKE_CXX_COMPILER=C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe
+      FinalizeBuildStatus:
+        Deleting file "Debug\\CompilerIdCXX.tlog\\unsuccessfulbuild".
+        Touching "Debug\\CompilerIdCXX.tlog\\CompilerIdCXX.lastbuildstate".
+      Done Building Project "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\4.0.3\\CompilerIdCXX\\CompilerIdCXX.vcxproj" (default targets).
+      
+      Build succeeded.
+          0 Warning(s)
+          0 Error(s)
+      
+      Time Elapsed 00:00:00.61
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+      
+      The CXX compiler identification is MSVC, found in:
+        Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/4.0.3/CompilerIdCXX/CompilerIdCXX.exe
+      
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerABI.cmake:83 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:107 (PROJECT)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-gtcd68"
+      binary: "Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-gtcd68"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-gtcd68'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_31513.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.8+a7a4d5af0 for .NET Framework
+        Build started 7/29/2025 2:21:43 PM.
+        
+        Project "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gtcd68\\cmTC_31513.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_31513.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gtcd68\\Debug\\".
+          Creating directory "cmTC_31513.dir\\Debug\\cmTC_31513.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_31513.dir\\Debug\\cmTC_31513.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_31513.dir\\Debug\\cmTC_31513.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_31513.dir\\Debug\\\\" /Fd"cmTC_31513.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.0\\Modules\\CMakeCCompilerABI.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.38.33145 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_31513.dir\\Debug\\\\" /Fd"cmTC_31513.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.0\\Modules\\CMakeCCompilerABI.c"
+          CMakeCCompilerABI.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gtcd68\\Debug\\cmTC_31513.exe" /INCREMENTAL /ILK:"cmTC_31513.dir\\Debug\\cmTC_31513.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-gtcd68/Debug/cmTC_31513.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-gtcd68/Debug/cmTC_31513.lib" /MACHINE:X64  /machine:x64 cmTC_31513.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_31513.vcxproj -> Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gtcd68\\Debug\\cmTC_31513.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_31513.dir\\Debug\\cmTC_31513.tlog\\unsuccessfulbuild".
+          Touching "cmTC_31513.dir\\Debug\\cmTC_31513.tlog\\cmTC_31513.lastbuildstate".
+        Done Building Project "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gtcd68\\cmTC_31513.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:00.56
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerABI.cmake:227 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:107 (PROJECT)"
+    message: |
+      Parsed C implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
+        linker tool for 'C': C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/bin/HostX64/x64/link.exe
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/Internal/CMakeDetermineLinkerId.cmake:36 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerABI.cmake:270 (cmake_determine_linker_id)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:107 (PROJECT)"
+    message: |
+      Running the C compiler's linker: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/bin/HostX64/x64/link.exe" "-v"
+      Microsoft (R) Incremental Linker Version 14.38.33145.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerABI.cmake:83 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:107 (PROJECT)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-mi188n"
+      binary: "Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-mi188n"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-mi188n'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_779df.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.8+a7a4d5af0 for .NET Framework
+        Build started 7/29/2025 2:21:45 PM.
+        
+        Project "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mi188n\\cmTC_779df.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_779df.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mi188n\\Debug\\".
+          Creating directory "cmTC_779df.dir\\Debug\\cmTC_779df.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_779df.dir\\Debug\\cmTC_779df.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_779df.dir\\Debug\\cmTC_779df.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_779df.dir\\Debug\\\\" /Fd"cmTC_779df.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.0\\Modules\\CMakeCXXCompilerABI.cpp"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.38.33145 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_779df.dir\\Debug\\\\" /Fd"cmTC_779df.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.0\\Modules\\CMakeCXXCompilerABI.cpp"
+          CMakeCXXCompilerABI.cpp
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mi188n\\Debug\\cmTC_779df.exe" /INCREMENTAL /ILK:"cmTC_779df.dir\\Debug\\cmTC_779df.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-mi188n/Debug/cmTC_779df.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-mi188n/Debug/cmTC_779df.lib" /MACHINE:X64  /machine:x64 cmTC_779df.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_779df.vcxproj -> Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mi188n\\Debug\\cmTC_779df.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_779df.dir\\Debug\\cmTC_779df.tlog\\unsuccessfulbuild".
+          Touching "cmTC_779df.dir\\Debug\\cmTC_779df.tlog\\cmTC_779df.lastbuildstate".
+        Done Building Project "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mi188n\\cmTC_779df.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:00.56
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerABI.cmake:227 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:107 (PROJECT)"
+    message: |
+      Parsed CXX implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
+        linker tool for 'CXX': C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/bin/HostX64/x64/link.exe
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/Internal/CMakeDetermineLinkerId.cmake:36 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerABI.cmake:270 (cmake_determine_linker_id)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:107 (PROJECT)"
+    message: |
+      Running the CXX compiler's linker: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/bin/HostX64/x64/link.exe" "-v"
+      Microsoft (R) Incremental Linker Version 14.38.33145.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CheckIncludeFile.cmake:99 (try_compile)"
+      - "contrib/zlib/CMakeLists.txt:35 (check_include_file)"
+    checks:
+      - "Looking for sys/types.h"
+    directories:
+      source: "Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-5du1u8"
+      binary: "Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-5du1u8"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/cmake-modules"
+    buildResult:
+      variable: "HAVE_SYS_TYPES_H"
+      cached: true
+      stdout: |
+        Change Dir: 'Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-5du1u8'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_56689.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.8+a7a4d5af0 for .NET Framework
+        Build started 7/29/2025 2:21:46 PM.
+        
+        Project "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5du1u8\\cmTC_56689.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_56689.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5du1u8\\Debug\\".
+          Creating directory "cmTC_56689.dir\\Debug\\cmTC_56689.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_56689.dir\\Debug\\cmTC_56689.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_56689.dir\\Debug\\cmTC_56689.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_56689.dir\\Debug\\\\" /Fd"cmTC_56689.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5du1u8\\CheckIncludeFile.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.38.33145 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_56689.dir\\Debug\\\\" /Fd"cmTC_56689.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5du1u8\\CheckIncludeFile.c"
+          CheckIncludeFile.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5du1u8\\Debug\\cmTC_56689.exe" /INCREMENTAL /ILK:"cmTC_56689.dir\\Debug\\cmTC_56689.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-5du1u8/Debug/cmTC_56689.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-5du1u8/Debug/cmTC_56689.lib" /MACHINE:X64  /machine:x64 cmTC_56689.dir\\Debug\\CheckIncludeFile.obj
+          cmTC_56689.vcxproj -> Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5du1u8\\Debug\\cmTC_56689.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_56689.dir\\Debug\\cmTC_56689.tlog\\unsuccessfulbuild".
+          Touching "cmTC_56689.dir\\Debug\\cmTC_56689.tlog\\cmTC_56689.lastbuildstate".
+        Done Building Project "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5du1u8\\cmTC_56689.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:00.58
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CheckIncludeFile.cmake:99 (try_compile)"
+      - "contrib/zlib/CMakeLists.txt:36 (check_include_file)"
+    checks:
+      - "Looking for stdint.h"
+    directories:
+      source: "Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-5p6onw"
+      binary: "Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-5p6onw"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/cmake-modules"
+    buildResult:
+      variable: "HAVE_STDINT_H"
+      cached: true
+      stdout: |
+        Change Dir: 'Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-5p6onw'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_e150c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.8+a7a4d5af0 for .NET Framework
+        Build started 7/29/2025 2:21:47 PM.
+        
+        Project "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5p6onw\\cmTC_e150c.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_e150c.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5p6onw\\Debug\\".
+          Creating directory "cmTC_e150c.dir\\Debug\\cmTC_e150c.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_e150c.dir\\Debug\\cmTC_e150c.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_e150c.dir\\Debug\\cmTC_e150c.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e150c.dir\\Debug\\\\" /Fd"cmTC_e150c.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5p6onw\\CheckIncludeFile.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.38.33145 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e150c.dir\\Debug\\\\" /Fd"cmTC_e150c.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5p6onw\\CheckIncludeFile.c"
+          CheckIncludeFile.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5p6onw\\Debug\\cmTC_e150c.exe" /INCREMENTAL /ILK:"cmTC_e150c.dir\\Debug\\cmTC_e150c.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-5p6onw/Debug/cmTC_e150c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-5p6onw/Debug/cmTC_e150c.lib" /MACHINE:X64  /machine:x64 cmTC_e150c.dir\\Debug\\CheckIncludeFile.obj
+          cmTC_e150c.vcxproj -> Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5p6onw\\Debug\\cmTC_e150c.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_e150c.dir\\Debug\\cmTC_e150c.tlog\\unsuccessfulbuild".
+          Touching "cmTC_e150c.dir\\Debug\\cmTC_e150c.tlog\\cmTC_e150c.lastbuildstate".
+        Done Building Project "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5p6onw\\cmTC_e150c.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:00.56
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CheckIncludeFile.cmake:99 (try_compile)"
+      - "contrib/zlib/CMakeLists.txt:37 (check_include_file)"
+    checks:
+      - "Looking for stddef.h"
+    directories:
+      source: "Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-e05eul"
+      binary: "Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-e05eul"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/cmake-modules"
+    buildResult:
+      variable: "HAVE_STDDEF_H"
+      cached: true
+      stdout: |
+        Change Dir: 'Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-e05eul'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_3d641.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.8+a7a4d5af0 for .NET Framework
+        Build started 7/29/2025 2:21:48 PM.
+        
+        Project "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-e05eul\\cmTC_3d641.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_3d641.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-e05eul\\Debug\\".
+          Creating directory "cmTC_3d641.dir\\Debug\\cmTC_3d641.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_3d641.dir\\Debug\\cmTC_3d641.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_3d641.dir\\Debug\\cmTC_3d641.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3d641.dir\\Debug\\\\" /Fd"cmTC_3d641.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-e05eul\\CheckIncludeFile.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.38.33145 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3d641.dir\\Debug\\\\" /Fd"cmTC_3d641.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-e05eul\\CheckIncludeFile.c"
+          CheckIncludeFile.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-e05eul\\Debug\\cmTC_3d641.exe" /INCREMENTAL /ILK:"cmTC_3d641.dir\\Debug\\cmTC_3d641.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-e05eul/Debug/cmTC_3d641.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-e05eul/Debug/cmTC_3d641.lib" /MACHINE:X64  /machine:x64 cmTC_3d641.dir\\Debug\\CheckIncludeFile.obj
+          cmTC_3d641.vcxproj -> Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-e05eul\\Debug\\cmTC_3d641.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_3d641.dir\\Debug\\cmTC_3d641.tlog\\unsuccessfulbuild".
+          Touching "cmTC_3d641.dir\\Debug\\cmTC_3d641.tlog\\cmTC_3d641.lastbuildstate".
+        Done Building Project "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-e05eul\\cmTC_3d641.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:00.53
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CheckTypeSize.cmake:212 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CheckTypeSize.cmake:339 (__check_type_size_impl)"
+      - "contrib/zlib/CMakeLists.txt:55 (check_type_size)"
+    checks:
+      - "Check size of off64_t"
+    directories:
+      source: "Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-7dma10"
+      binary: "Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-7dma10"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/cmake-modules"
+    buildResult:
+      variable: "HAVE_OFF64_T"
+      cached: true
+      stdout: |
+        Change Dir: 'Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-7dma10'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_be0b1.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.8+a7a4d5af0 for .NET Framework
+        Build started 7/29/2025 2:21:49 PM.
+        
+        Project "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7dma10\\cmTC_be0b1.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_be0b1.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7dma10\\Debug\\".
+          Creating directory "cmTC_be0b1.dir\\Debug\\cmTC_be0b1.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_be0b1.dir\\Debug\\cmTC_be0b1.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_be0b1.dir\\Debug\\cmTC_be0b1.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _LARGEFILE64_SOURCE=1 /D HAVE_SYS_TYPES_H /D HAVE_STDINT_H /D HAVE_STDDEF_H /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_be0b1.dir\\Debug\\\\" /Fd"cmTC_be0b1.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7dma10\\OFF64_T.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.38.33145 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _LARGEFILE64_SOURCE=1 /D HAVE_SYS_TYPES_H /D HAVE_STDINT_H /D HAVE_STDDEF_H /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_be0b1.dir\\Debug\\\\" /Fd"cmTC_be0b1.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7dma10\\OFF64_T.c"
+          OFF64_T.c
+        Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7dma10\\OFF64_T.c(29,12): error C2065: 'off64_t': undeclared identifier [Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7dma10\\cmTC_be0b1.vcxproj]
+        Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7dma10\\OFF64_T.c(30,12): error C2065: 'off64_t': undeclared identifier [Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7dma10\\cmTC_be0b1.vcxproj]
+        Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7dma10\\OFF64_T.c(31,12): error C2065: 'off64_t': undeclared identifier [Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7dma10\\cmTC_be0b1.vcxproj]
+        Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7dma10\\OFF64_T.c(32,12): error C2065: 'off64_t': undeclared identifier [Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7dma10\\cmTC_be0b1.vcxproj]
+        Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7dma10\\OFF64_T.c(33,12): error C2065: 'off64_t': undeclared identifier [Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7dma10\\cmTC_be0b1.vcxproj]
+        Done Building Project "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7dma10\\cmTC_be0b1.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7dma10\\cmTC_be0b1.vcxproj" (default target) (1) ->
+        (ClCompile target) -> 
+          Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7dma10\\OFF64_T.c(29,12): error C2065: 'off64_t': undeclared identifier [Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7dma10\\cmTC_be0b1.vcxproj]
+          Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7dma10\\OFF64_T.c(30,12): error C2065: 'off64_t': undeclared identifier [Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7dma10\\cmTC_be0b1.vcxproj]
+          Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7dma10\\OFF64_T.c(31,12): error C2065: 'off64_t': undeclared identifier [Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7dma10\\cmTC_be0b1.vcxproj]
+          Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7dma10\\OFF64_T.c(32,12): error C2065: 'off64_t': undeclared identifier [Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7dma10\\cmTC_be0b1.vcxproj]
+          Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7dma10\\OFF64_T.c(33,12): error C2065: 'off64_t': undeclared identifier [Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7dma10\\cmTC_be0b1.vcxproj]
+        
+            0 Warning(s)
+            5 Error(s)
+        
+        Time Elapsed 00:00:00.36
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CheckFunctionExists.cmake:93 (try_compile)"
+      - "contrib/zlib/CMakeLists.txt:64 (check_function_exists)"
+    checks:
+      - "Looking for fseeko"
+    directories:
+      source: "Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-66tymw"
+      binary: "Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-66tymw"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/cmake-modules"
+    buildResult:
+      variable: "HAVE_FSEEKO"
+      cached: true
+      stdout: |
+        Change Dir: 'Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-66tymw'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_1c16b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.8+a7a4d5af0 for .NET Framework
+        Build started 7/29/2025 2:21:49 PM.
+        
+        Project "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-66tymw\\cmTC_1c16b.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_1c16b.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-66tymw\\Debug\\".
+          Creating directory "cmTC_1c16b.dir\\Debug\\cmTC_1c16b.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_1c16b.dir\\Debug\\cmTC_1c16b.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_1c16b.dir\\Debug\\cmTC_1c16b.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=fseeko /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_1c16b.dir\\Debug\\\\" /Fd"cmTC_1c16b.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-66tymw\\CheckFunctionExists.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.38.33145 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=fseeko /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_1c16b.dir\\Debug\\\\" /Fd"cmTC_1c16b.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-66tymw\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-66tymw\\Debug\\cmTC_1c16b.exe" /INCREMENTAL /ILK:"cmTC_1c16b.dir\\Debug\\cmTC_1c16b.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-66tymw/Debug/cmTC_1c16b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-66tymw/Debug/cmTC_1c16b.lib" /MACHINE:X64  /machine:x64 cmTC_1c16b.dir\\Debug\\CheckFunctionExists.obj
+        CheckFunctionExists.obj : error LNK2019: unresolved external symbol fseeko referenced in function main [Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-66tymw\\cmTC_1c16b.vcxproj]
+        Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-66tymw\\Debug\\cmTC_1c16b.exe : fatal error LNK1120: 1 unresolved externals [Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-66tymw\\cmTC_1c16b.vcxproj]
+        Done Building Project "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-66tymw\\cmTC_1c16b.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-66tymw\\cmTC_1c16b.vcxproj" (default target) (1) ->
+        (Link target) -> 
+          CheckFunctionExists.obj : error LNK2019: unresolved external symbol fseeko referenced in function main [Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-66tymw\\cmTC_1c16b.vcxproj]
+          Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-66tymw\\Debug\\cmTC_1c16b.exe : fatal error LNK1120: 1 unresolved externals [Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-66tymw\\cmTC_1c16b.vcxproj]
+        
+            0 Warning(s)
+            2 Error(s)
+        
+        Time Elapsed 00:00:00.50
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.0/Modules/CheckIncludeFile.cmake:99 (try_compile)"
+      - "contrib/zlib/CMakeLists.txt:72 (check_include_file)"
+    checks:
+      - "Looking for unistd.h"
+    directories:
+      source: "Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-q2duka"
+      binary: "Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-q2duka"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/cmake-modules"
+    buildResult:
+      variable: "Z_HAVE_UNISTD_H"
+      cached: true
+      stdout: |
+        Change Dir: 'Y:/NPAProjs/ArtProgram/Chimera/Libraries/assimp-6.0.2/assimp-6.0.2/build/CMakeFiles/CMakeScratch/TryCompile-q2duka'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_421bf.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.14.8+a7a4d5af0 for .NET Framework
+        Build started 7/29/2025 2:21:50 PM.
+        
+        Project "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-q2duka\\cmTC_421bf.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_421bf.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-q2duka\\Debug\\".
+          Creating directory "cmTC_421bf.dir\\Debug\\cmTC_421bf.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_421bf.dir\\Debug\\cmTC_421bf.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_421bf.dir\\Debug\\cmTC_421bf.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_421bf.dir\\Debug\\\\" /Fd"cmTC_421bf.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-q2duka\\CheckIncludeFile.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.38.33145 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_421bf.dir\\Debug\\\\" /Fd"cmTC_421bf.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-q2duka\\CheckIncludeFile.c"
+          CheckIncludeFile.c
+        Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-q2duka\\CheckIncludeFile.c(1,10): error C1083: Cannot open include file: 'unistd.h': No such file or directory [Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-q2duka\\cmTC_421bf.vcxproj]
+        Done Building Project "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-q2duka\\cmTC_421bf.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-q2duka\\cmTC_421bf.vcxproj" (default target) (1) ->
+        (ClCompile target) -> 
+          Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-q2duka\\CheckIncludeFile.c(1,10): error C1083: Cannot open include file: 'unistd.h': No such file or directory [Y:\\NPAProjs\\ArtProgram\\Chimera\\Libraries\\assimp-6.0.2\\assimp-6.0.2\\build\\CMakeFiles\\CMakeScratch\\TryCompile-q2duka\\cmTC_421bf.vcxproj]
+        
+            0 Warning(s)
+            1 Error(s)
+        
+        Time Elapsed 00:00:00.38
+        
+      exitCode: 1
+...
