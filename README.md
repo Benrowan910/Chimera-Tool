@@ -14,12 +14,16 @@ Go into your project, right click on the project solution, and pull up "Properti
 
 ### Step Two
 Navigate to your VC++ Directories under configuration Properties
+![Image One](https://github.com/Benrowan910/Chimera-Tool/blob/main/GITHUBIMAGES/Screenshot%202025-07-29%20150558.png)
 
 ### Step Three
 Navigate to you include and library directories, and link the appropriate folders
+![Image One](https://github.com/Benrowan910/Chimera-Tool/blob/main/GITHUBIMAGES/Screenshot%202025-07-29%20150558.png)
 
 ### Step Four
 Navigate to the Linker/Input section and input the following
+![Image One](https://github.com/Benrowan910/Chimera-Tool/blob/main/GITHUBIMAGES/Screenshot%202025-07-29%20150450.png)
+
 
 ## A list of included libraries and directories, as well as what they do
 
