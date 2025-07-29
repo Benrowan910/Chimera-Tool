@@ -25,6 +25,7 @@ Navigate to the Linker/Input section and input the following
 
 ### OpenGL
 Open GL is a graphics api that allows us to render images onto the screen using a GLFW window.
+Link: [Open GL Website] (https://www.opengl.org/)
 
 ### STB_Image
 STB_Image allows for the importing and use of 2-Dimensional textures and images.
