@@ -45,4 +45,4 @@ Link: [CPP JSON Repository](https://github.com/nlohmann/json)
 
 ### GLAD/GLM
 Extension libraries for opengl that handle math and ease of use operations.
-Link: [Open GL Website](https://www.opengl.org/)
+Link: [GLM (Open GL Mathematics)](https://github.com/g-truc/glm)
